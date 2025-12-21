@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "vitest": "^3.2.4"
+  },
+  "devDependencies": {
+    "pdf-to-img": "^5.0.0",
+    "pdfreader": "^3.0.8"
+  },
+  "scripts": {
+    "test": "vitest"
+  }
+}
